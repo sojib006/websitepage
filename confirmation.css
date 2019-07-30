@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   
+
+    <title>Confirmation</title>
+
+    <link rel="stylesheet" type="text/css" href="confirmationcss.css">
+
+</head>
+
+
+<body>
+
+
+    <div style="height: 100px; width: 100%; background-color: darkorange; ">
+    
+    
+    <ul style="position: relative;">
+        
+    
+    <li> <a href="Homepage.html">HomePage</a></li>
+        
+        <li> <a href="#">Our Works</a></li>
+    
+    
+    <li> <a href="bookingform.html">Services</a> </li>
+    
+    
+    
+     <li> <a href="contact.html"> Contact Us</a> </li>
+    
+    
+    
+    
+    </ul>
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+<!-- **************HEADER**************** --><br>
+<div id="header">
+
+
+  <!-- **************NAV BAR**************** -->
+
+
+
+<marquee onmouseover="this.stop();" onmouseout="this.start();" direction="left"   scrollamount="15"><h3 style=" color:White; text-decoration:underline;">BOOKING CONFIRMATION</h3></marquee>
+</div>
+
+
+<!--*************** FORM ********************-->
+<h3 style="text-align:center;">Dear Customer!</h3>
+<h4>We are happy to get your feedback! We will follow up on this.</h4>
+<h4>Thank You.</h4>
+
+
+
+ <!--***********************Footer*********************-->
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+</body>
+</html>
